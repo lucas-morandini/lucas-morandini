@@ -7,10 +7,9 @@ I'm a software engineering student passionate about distributed systems, data st
 
 ## 🔭 Current Focus
 
-- 🔬 Working on distributed systems and data processing applications
-- 📚 Learning advanced data storage and archiving techniques
-- 🌐 Exploring high-performance computing environments
-- 🧠 Improving my skills in machine learning and data analytics
+- 📚 Learning C++...
+- 🌐 Exploring DIY drone building with arduino
+- 🧠 Improving my skills in machine learning and web developpement
 
 ## 💻 Tech Stack
 
