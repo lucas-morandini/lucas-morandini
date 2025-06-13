@@ -59,14 +59,6 @@ Machine learning pipeline to identify scientific articles from Twitter data usin
 ### 🔍 Esport Betting Platform
 Full-stack web application built with Angular, NestJS, MySQL, Machine Learning to provide bets around Esport Games.
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-morandini&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-morandini&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
-
 ## 🎓 Education
 
 - **2024-Present**: Double Master in Software Engineering & Management (University of Montpellier / IAE)
