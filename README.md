@@ -56,11 +56,9 @@ I'm a software engineering student passionate about distributed systems, data st
 ### 📊 Scientific Article Detection on Twitter (X)
 Machine learning pipeline to identify scientific articles from Twitter data using scikit-learn, Pandas, and SciPy.
 
-### 🔍 Internship Search Platform
-Full-stack web application built with React, Node.js, Express, and MongoDB to streamline internship searches for students and companies.
+### 🔍 Esport Betting Platform
+Full-stack web application built with Angular, NestJS, MySQL, Machine Learning to provide bets around Esport Games.
 
-### 🚲 Waste Collection Management System
-Developed at GEOMATYS, a bicycle-based waste collection management application using Java Spring Boot and Angular.
 
 ## 📈 GitHub Stats
 
@@ -74,7 +72,6 @@ Developed at GEOMATYS, a bicycle-based waste collection management application u
 - **2024-Present**: Double Master in Software Engineering & Management (University of Montpellier / IAE)
 - **2022-2024**: Bachelor's in Computer Science (University of Montpellier)
 - **2020-2022**: Associate's Degree in Computer Science (University of Montpellier)
-- **2017**: Observational Internship at CERN
 
 ## 💡 Interests
 
